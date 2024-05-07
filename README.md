@@ -9,6 +9,7 @@ The materials in this repository contain scripts and additional materials for co
 
 * Ehret, Katharina, and Maite Taboada. (2021). [“Characterising online news comments: a multi-dimensional cruise through online registers”](https://www.frontiersin.org/articles/10.3389/frai.2021.643770/full). _Frontiers in Artificial Intelligence_. 4(79): 10.3389/frai.2021.643770.
 
+
 ### File and folder structure
 
 * :file_folder: 
@@ -17,7 +18,7 @@ The materials in this repository contain scripts and additional materials for co
 
 * ### Release note
 
-All scripts have been tested on Debian 12 only.
+All scripts have been tested on Debian 12 only. The workshop slides are available upon request.
 
 * ### Copyright and citation
 
