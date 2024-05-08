@@ -1,6 +1,6 @@
 # How to do Multi-dimensional Analysis: Theoretical background and practical analyses in R
 
-Workshop held May 22 and 23, 2024, SFU, Burnaby
+Workshop held May 22 and 23, 2024, at Simon Fraser University, Burnaby
 
 
 ### About 
@@ -12,9 +12,13 @@ The materials in this repository contain scripts and additional materials for co
 
 ### File and folder structure
 
-* :file_folder: 
+* :file_folder: data -- the normalised frequency counts and additional material needed for the FA
 
-* :file_folder: 
+* :file_folder: interpretation -- spreadsheets with salient loadings and comments, distributional graphs
+
+* :file_folder: scripts -- R scripts
+  
+* 
 
 * ### Release note
 
