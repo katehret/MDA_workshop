@@ -22,7 +22,7 @@ The materials in this repository contain scripts and additional materials for co
 > For running the .Rmd scripts in R studio the scripts need to be moved up one directory level. Else the folder structure should be left intact. Make sure to unzip the normalized_postag_counts.zip folder.
 
 
-* ### Copyright and citation
+#### Copyright and citation
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
