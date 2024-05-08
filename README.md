@@ -19,10 +19,10 @@ The materials in this repository contain scripts and additional materials for co
 * :file_folder: scripts -- .r scripts and .Rmd scripts
 
 
+> [!NOTE] 
 
-* ### Release note
+All scripts have been tested on Debian 12 and R version 4.4.0 (2024-04-24).
 
-All scripts have been tested on Debian 12 only.
 
 * ### Copyright and citation
 
