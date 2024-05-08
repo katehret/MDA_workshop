@@ -19,7 +19,7 @@ The materials in this repository contain scripts and additional materials for co
 * :file_folder: scripts -- .r scripts and .Rmd scripts
 
 > [!TIP]
-> For running the .Rmd scripts in R studio the scripts need to be moved up one directory level. 
+> For running the .Rmd scripts in R studio the scripts need to be moved up one directory level. Else the folder structure should be left intact. Make sure to unzip the normalized_postag_counts.zip folder.
 
 
 * ### Copyright and citation
