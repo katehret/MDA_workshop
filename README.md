@@ -18,10 +18,8 @@ The materials in this repository contain scripts and additional materials for co
 
 * :file_folder: scripts -- .r scripts and .Rmd scripts
 
-
-> [!NOTE] 
-
-All scripts have been tested on Debian 12 and R version 4.4.0 (2024-04-24).
+> [!TIP]
+> For running the .Rmd scripts in R studio the scripts need to be moved up one directory level. 
 
 
 * ### Copyright and citation
