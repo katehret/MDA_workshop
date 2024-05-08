@@ -16,13 +16,13 @@ The materials in this repository contain scripts and additional materials for co
 
 * :file_folder: interpretation -- spreadsheets with salient loadings and comments, distributional graphs
 
-* :file_folder: scripts -- R scripts
-  
-* 
+* :file_folder: scripts -- .r scripts and .Rmd scripts
+
+
 
 * ### Release note
 
-All scripts have been tested on Debian 12 only. The workshop slides are available upon request.
+All scripts have been tested on Debian 12 only.
 
 * ### Copyright and citation
 
@@ -39,4 +39,4 @@ This work is licensed under
 
 #### Cite as
 
-
+Ehret, Katharina. 2024. Materials for "How to do Multi-dimensional Analysis: Theoretical background and practical analyses in R". Workshop, May 22 and 23, 2024, Simon Fraser University, Burnaby, Canada.
