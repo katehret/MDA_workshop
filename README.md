@@ -39,7 +39,7 @@ All material with the exception of corpus files is licensed under
 
 For copyright and citation of the corpus files please refer to the original sources: 
 
-[SFU Opinion and Comments Corpus](https://github.com/sfu-discourse-lab/SOCC) and [Corpus of Online Registers of English](doi:10.3366/cor.2015.0065)
+[SFU Opinion and Comments Corpus](https://github.com/sfu-discourse-lab/SOCC) and [Corpus of Online Registers of English]([doi:10.3366/cor.2015.0065](https://doi.org/10.3366/cor.2015.0065)
 
 #### Cite as
 
