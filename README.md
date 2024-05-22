@@ -18,7 +18,7 @@ This repository contains slides, scripts, data and additional material for condu
 
 * :file_folder: scripts -- .r scripts and .Rmd scripts
 
-*:computer: mda_slides.pdf: slides presented during the workshop
+* :computer: mda_slides.pdf: slides presented during the workshop
 
 > [!TIP]
 > For running the .Rmd scripts in R studio the scripts need to be moved up one directory level. Else the folder structure should be left intact. Make sure to unzip the normalized_postag_counts.zip folder.
