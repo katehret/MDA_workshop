@@ -199,7 +199,7 @@ scores="regression")
 factorScores = as.data.frame(fa3$scores)
 
 #add register information
-registers <- read.csv("texts_by_register.csv")
+registers <- read.csv("data/texts_by_register.csv")
 factorScores$register <- registers$register
 
 #save to file
