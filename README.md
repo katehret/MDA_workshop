@@ -14,7 +14,7 @@ This repository contains slides, scripts, data and additional material for condu
 
 * :file_folder: data -- the normalised frequency counts and additional material needed for the FA
 
-* :file_folder: interpretation -- spreadsheets with salient loadings and comments, distributional graphs
+* :file_folder: interpretation -- spreadsheets with salient loadings and comments, distributional graphs, some example corpus files
 
 * :file_folder: scripts -- .r scripts and .Rmd scripts
 
